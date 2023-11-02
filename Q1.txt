@@ -1,0 +1,32 @@
+ 1. ls - know what are in the diretory/  list directory
+ 2. ll - list the content of the directory in a long format
+ 3. pwd - to get to know the directory
+ 4. tree - display the directory structure of the current working 		  	  directory
+ 5. mkdir - create a folder or directory
+ 	   ex: mkdir DIY\ Hacking 
+ 6. mkdir -p - create a directory and its parent directories if they 		                    	      don't exsist
+ 7. cp - copy files 
+ 8. mv - move files 
+ 	rename files
+ 	ex: mv new.txt(name of file) text.txt(renamed file name)
+ 9. rm - delete a directory containing files
+10. chown - the owner can change the owner to another user too
+11. chmod - use to change the permission of files and directories
+12. cat - display the content in a file 
+           ex: cat new.txt
+13. less - used to view the contents of text files, one screen or page 		    	   at a time.
+14. tail - used to display the last few lines of a text fie or a stream 		    of data
+15. grep - text search and pattern matching tool 
+16. sort - sort words in a text file
+17. wget - downlading files from the internet
+18. zip - to create zip files
+19. tar - create and manage archieve files 
+20. netstat - display network related information and statistics
+21. telnet - new protocol used to establish text-based terminal 		      	     connections to remote devices or systems
+22. nslookup - network diagnostic tool
+23. man - to know more about the command / to get the manual
+24. ping - check the connetion to a server
+25. find - find files or flders matchng a particular search pattern
+26. md5sum - calculate and diaplay the MD5 hash value of a file 
+27. df - See the available disk space in each of the partitions in the 		   	 system 
+28. du - To know the disk usage
